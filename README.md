@@ -1,5 +1,8 @@
 # PracticePython
-personal homwork
-2017.5.14
+useful tools
+2013.2.14
+begin
 
-语句和语法
+
+2013.2.20
+读取/etc/passwd文件,获取用户名和shell,保存到 /tmp/passwd文件中
