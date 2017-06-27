@@ -1,4 +1,5 @@
-# PracticePython
+PracticePython
+==============
 useful tools
 2013.2.14
 begin
@@ -8,7 +9,7 @@ begin
 
 1.读取/etc/passwd文件,获取用户名和shell,保存到 /tmp/passwd文件中
 ---------------------------------------------------------------
-[this link](PracticePython/Homework/check_password.py)
+[code](https://github.com/Fincalin/PracticePython/blob/master/Homework/check_password.py)
 
 
 2.在Python代码中,可以使用__file__这个特殊的变量,表示当前代码所 在的源文件。
@@ -20,3 +21,4 @@ begin
 
 
 3.权限操作函数
+----------------------------------------------------------------------
