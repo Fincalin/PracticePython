@@ -16,7 +16,6 @@ def valid_password(pwd):
         if char not in legal_chars:
             return False
     if pwd[-1] == "_":
-
         return False
     return True
 
